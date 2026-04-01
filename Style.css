@@ -33,5 +33,6 @@ body{
     border-radius: 5px;
 }
 button{
-    size: 50px;
+    height: 50px;
+    width:  50px;
 }
