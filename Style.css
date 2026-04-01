@@ -20,12 +20,14 @@
 body{
     size:100%;
     background: white;
-    display: grid;
-    place-items: center;
 }
 
 .box{
     background: linear-gradient(white, gray ,black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     border: 10px;
     border-radius: 5px;
 }
