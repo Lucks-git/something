@@ -26,7 +26,7 @@ body{
 }
 
 .box{
-    background: linear-gradient(white, gray ,black);
+    background: linear-gradient(0deg, white, gray ,black);
     height: 100vh;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 20%;
