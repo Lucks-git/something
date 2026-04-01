@@ -20,13 +20,13 @@
 body{
     size:100%;
     background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .box{
     background: linear-gradient(white, gray ,black);
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 20%;
