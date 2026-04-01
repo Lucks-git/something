@@ -30,7 +30,7 @@ body{
     height: 100vh;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 20%;
-    box-shadow:  0 20px 40px rgba(0, 0, 0, 0.315);
+    box-shadow:  0 20px 40px rgb(0, 0, 0);
 }
 
 button{
