@@ -29,6 +29,7 @@ body{
     align-items: center;
     height: 100vh;
     border: 10px;
+    border-color: black;
     border-radius: 5px;
 }
 button{
