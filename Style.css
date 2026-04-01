@@ -12,6 +12,11 @@
   transition: opacity .5s ease, visibility .5s ease;
 }
 
+#loader.hidden {
+  opacity: 0;
+  visibility: hidden;   
+}
+
 body{
     background: linear-gradient(white, gray ,black);
 }
