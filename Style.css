@@ -20,6 +20,8 @@
 body{
     size:100%;
     background: linear-gradient(white, gray ,black);
+    display: grid;
+    place-items: center;
 }
 
 .box{
