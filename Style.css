@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    text-decoration-color: white;
 }
 
 .box{
@@ -12,5 +13,4 @@ body{
 }
 button{
     size: 50px;
-    position: fixed;
 }
